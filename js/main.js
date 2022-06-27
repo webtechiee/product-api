@@ -40,5 +40,5 @@ let productData = function(){
     })
 }
 
-let hass;
+
 productData();
