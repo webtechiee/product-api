@@ -18,7 +18,7 @@ let productData = function(){
                 
             <div class="col-md-3">
             <div class="card">
-              <img src="${prod.image}" class="card-img-top" alt="...">
+              <img src="${prod.image}" class="card-img-top image-fluid img-product" alt="...">
               <div class="card-body">
                 <h5 class="card-title">${prod.title}</h5>
                 <p class="card-text">Price: $${prod.price}</p>
