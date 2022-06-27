@@ -39,4 +39,6 @@ let productData = function(){
         disply.innerHTML = output;
     })
 }
+
+let hass;
 productData();
