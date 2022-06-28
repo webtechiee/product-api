@@ -6,7 +6,7 @@ input.addEventListener('keyup',() => {
    
 })
 
-let productData = function(){i
+let productData = function(){
     let output = '';
     fetch(apilink)
     .then(collet => collet.json() )
